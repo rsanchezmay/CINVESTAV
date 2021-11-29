@@ -18,7 +18,7 @@ from app.operations.graphs.rect_graph import rect_graph
 
 
 
-####################################           Proyecto 2          ##################################
+
 
 def delta_inverse(array):
     delta = array[0][1] * array[1][0] - array[0][0] * array[1][1]
